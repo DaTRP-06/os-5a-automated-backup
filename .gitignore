@@ -1,0 +1,12 @@
+*.vdi
+*.ova
+*.vmdk
+*.iso
+.DS_Store
+*.tar.gz
+*.sha256
+*.lock
+logs/*.log
+output/*.txt
+!logs/.gitkeep
+!output/.gitkeep
