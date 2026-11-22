@@ -1,0 +1,15 @@
+51c86a578d648f9aa1412fe6eaa586d99b1bb3e47fd4a5a9d46dc47edfc39039  output/laporan.txt
+==================================================
+LAPORAN OTOMASI BACKUP & PEMULIHAN DATA (TOPIK 5A)
+==================================================
+Waktu Eksekusi   : 2026-11-22 13:42:07
+Direktori Sumber : /tmp/dummy_src
+Direktori Tujuan : /tmp/dummy_dest
+Nama Arsip       : backup_20261122_134202.tar.gz
+SHA256 Checksum  : ec12bb4de84046018fa54ba828194b5be8e537d638ec962ff99d460f2b71a740
+Status Backup    : BERHASIL (EXIT 0)
+==================================================
+0
+sh: can't create /data/laporan.txt: Read-only file system
+1
+51c86a578d648f9aa1412fe6eaa586d99b1bb3e47fd4a5a9d46dc47edfc39039  output/laporan.txt
